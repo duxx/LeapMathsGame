@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapMathsGame", "LeapMathsGame\LeapMathsGame\LeapMathsGame.csproj", "{2D6EA6D8-089E-4B74-A4CF-022AF5A920FE}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "LeapMathsGameContent", "LeapMathsGame\LeapMathsGameContent\LeapMathsGameContent.contentproj", "{0AE3AE0F-BCD1-4AD8-8D9A-175E8DAF42B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D6EA6D8-089E-4B74-A4CF-022AF5A920FE}.Debug|x86.ActiveCfg = Debug|x86
+		{2D6EA6D8-089E-4B74-A4CF-022AF5A920FE}.Debug|x86.Build.0 = Debug|x86
+		{2D6EA6D8-089E-4B74-A4CF-022AF5A920FE}.Release|x86.ActiveCfg = Release|x86
+		{2D6EA6D8-089E-4B74-A4CF-022AF5A920FE}.Release|x86.Build.0 = Release|x86
+		{0AE3AE0F-BCD1-4AD8-8D9A-175E8DAF42B5}.Debug|x86.ActiveCfg = Debug|x86
+		{0AE3AE0F-BCD1-4AD8-8D9A-175E8DAF42B5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

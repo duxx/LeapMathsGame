@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GameObjects\planetBlue.png</Source>
+      <Name>GameObjects\planetBlue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\user\documents\visual studio 2013\Projects\LeapMathsGame\LeapMathsGame\LeapMathsGame\bin\x86\Debug\Content\GameObjects\planetBlue.xnb</Output>
+      <Time>2014-05-09T14:21:00.5355646+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjects\planetPurple.png</Source>
+      <Name>GameObjects\planetPurple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\user\documents\visual studio 2013\Projects\LeapMathsGame\LeapMathsGame\LeapMathsGame\bin\x86\Debug\Content\GameObjects\planetPurple.xnb</Output>
+      <Time>2014-05-09T14:21:00.5575657+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjects\planetYellow.png</Source>
+      <Name>GameObjects\planetYellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\user\documents\visual studio 2013\Projects\LeapMathsGame\LeapMathsGame\LeapMathsGame\bin\x86\Debug\Content\GameObjects\planetYellow.xnb</Output>
+      <Time>2014-05-09T14:21:00.5625651+03:00</Time>
+    </Item>
+    <Item>
+      <Source>UiElements\spaceBackground.jpg</Source>
+      <Name>UiElements\spaceBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\user\documents\visual studio 2013\Projects\LeapMathsGame\LeapMathsGame\LeapMathsGame\bin\x86\Debug\Content\UiElements\spaceBackground.xnb</Output>
+      <Time>2014-05-14T15:57:45.8814811+03:00</Time>
+    </Item>
+    <Item>
+      <Source>UiElements\questionBar.jpg</Source>
+      <Name>UiElements\questionBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\user\documents\visual studio 2013\Projects\LeapMathsGame\LeapMathsGame\LeapMathsGame\bin\x86\Debug\Content\UiElements\questionBar.xnb</Output>
+      <Time>2014-05-14T16:01:06.05675+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjects\ballRed.png</Source>
+      <Name>GameObjects\ballRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\user\documents\visual studio 2013\Projects\LeapMathsGame\LeapMathsGame\LeapMathsGame\bin\x86\Debug\Content\GameObjects\ballRed.xnb</Output>
+      <Time>2014-05-09T14:26:30.5561933+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjects\ballRedAnimated.png</Source>
+      <Name>GameObjects\ballRedAnimated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\documents\visual studio 2013\Projects\LeapMathsGame\LeapMathsGame\LeapMathsGame\bin\x86\Debug\Content\GameObjects\ballRedAnimated.xnb</Output>
+      <Time>2014-05-14T14:04:41.9581885+03:00</Time>
+    </Item>
+    <Item>
+      <Source>temp.png</Source>
+      <Name>temp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\documents\visual studio 2013\Projects\LeapMathsGame\LeapMathsGame\LeapMathsGame\bin\x86\Debug\Content\temp.xnb</Output>
+      <Time>2014-05-14T14:33:40.6578437+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\backgroundMusic.wav</Source>
+      <Name>Sounds\backgroundMusic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\documents\visual studio 2013\Projects\LeapMathsGame\LeapMathsGame\LeapMathsGame\bin\x86\Debug\Content\Sounds\backgroundMusic.xnb</Output>
+      <Time>2014-05-15T11:05:38.038586+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\powerUp.wav</Source>
+      <Name>Sounds\powerUp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\documents\visual studio 2013\Projects\LeapMathsGame\LeapMathsGame\LeapMathsGame\bin\x86\Debug\Content\Sounds\powerUp.xnb</Output>
+      <Time>2014-05-15T11:05:38.0465852+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\correct.wav</Source>
+      <Name>Sounds\correct</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\documents\visual studio 2013\Projects\LeapMathsGame\LeapMathsGame\LeapMathsGame\bin\x86\Debug\Content\Sounds\correct.xnb</Output>
+      <Time>2014-05-15T11:25:13.016974+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\explosion.wav</Source>
+      <Name>Sounds\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\documents\visual studio 2013\Projects\LeapMathsGame\LeapMathsGame\LeapMathsGame\bin\x86\Debug\Content\Sounds\explosion.xnb</Output>
+      <Time>2014-05-15T11:25:13.0229748+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{0AE3AE0F-BCD1-4AD8-8D9A-175E8DAF42B5}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\User\documents\visual studio 2013\Projects\LeapMathsGame\LeapMathsGame\LeapMathsGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\User\documents\visual studio 2013\Projects\LeapMathsGame\LeapMathsGame\LeapMathsGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\User\documents\visual studio 2013\Projects\LeapMathsGame\LeapMathsGame\LeapMathsGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\User\documents\visual studio 2013\Projects\LeapMathsGame\LeapMathsGame\LeapMathsGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T15:52:54+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T15:52:54+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-01-13T14:42:39.0043229+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
